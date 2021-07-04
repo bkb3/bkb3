@@ -5,7 +5,7 @@
     Hi there 👋
 </p>
 <p align="center">
-    I am interested Mathematics, Physics, Biology and many other things. Please visit my <a href="https://bkb3.github.io/homepage">homepage</a>, to know more!
+    I am interested Mathematics, Physics, Biology and many other things. Please visit my <a href="https://bkb3.github.io/homepage/about">homepage</a>, to know more!
 </p>
 
 <p align="center">
